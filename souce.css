@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding:0;
+}
+.header {
+    padding: 5%;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px gray;
+
+
+  }
+
+  hr.dashed {
+    border-top: 3px dashed rgb(211, 211, 211);
+  }
+
+  body{
+
+
+    font-family: Sans-serif;
+
+    background-color: rgb(255, 255, 255);
+
+  }
+
+  button {
+    padding: 6px;
+    transition-duration: 0.4s;
+    border: 1px solid green;
+    border-radius: 7px;
+    width: 50px;
+    height: 30px;
+  }
+  
+  button:hover {
+    background-color: #1abc9c;
+    color: white;
+  }
+
+.tudo{
+
+  width: auto;
+  height: auto;
+  padding: 2%;
+  border: 5px solid gray;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 10px 10px 6px;
+  
+
+}
+
+.Link{
+
+padding: 2%;
+
+
+}
+
+
